@@ -1,6 +1,7 @@
-# MyFirstApp
+# ParkingLotLayout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+This is a form to park your vehicle and it will also show you the parking report.
 
 ## Development server
 
